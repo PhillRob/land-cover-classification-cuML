@@ -1,0 +1,2 @@
+# Random Forest for Land Cover Classification
+Using the pixel-based land cover classification (LCC) method, a transferable script that classifies satellite data into canopy and non-canopy was developed the entire city of Riyadh. 
